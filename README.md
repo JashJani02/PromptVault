@@ -15,6 +15,9 @@ A self-hostable, open-source Streamlit app to store and manage your AI conversat
 - Animated dashboard: entries by field, tag, provider, and activity over time
 - SQLite database: zero config, self-contained, easy to back up
 
+## Tech-Stack
+<ol><li>Python</li><li>bcrypt</li><li>Sqlite</li><li>Pandas</li><li>Plotly</li></ol>
+
 ## Project Structure
 
 ```
