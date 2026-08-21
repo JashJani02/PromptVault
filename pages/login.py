@@ -6,7 +6,7 @@ def render():
     st.title("📚 Prompt Vault")
     st.caption("Store your prompts, responses, media, and links in one place.")
 
-    tab_login, tab_signup = st.tabs(["Log In", "Sign Up"])
+    tab_signup, tab_login = st.tabs(["Sign Up", "Login"])
 
     with tab_login:
         with st.form("login_form"):
